@@ -1,2 +1,2 @@
-<p>js file is pending</p>
-<p>Stay tuned ..</p>
+<p>All Files are fully updated Now !</p>
+
